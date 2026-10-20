@@ -11,3 +11,7 @@ Moje cele na studia to poszerzenie swoich umiejetnosci programowania, nauka nowy
 # Narzedzia
 
 znane mi narzedzia to PHP, SQL, Wiedza z zakresu sieci komputerowych oraz systemow operacyjnych
+
+# LINK
+
+[Uzyta dokumentacja](https://www.markdownguide.org/basic-syntax/)
